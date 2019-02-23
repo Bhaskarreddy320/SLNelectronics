@@ -1,0 +1,14 @@
+.webname{
+    background-image: url("../assets/navback7.jpg");
+    color: #0e0840;
+    padding: 10px;
+    font-size: 96px;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0%;
+}
+.bgcol{
+    background-color: #563d7c;
+    color: white;
+}

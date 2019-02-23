@@ -1,0 +1,44 @@
+
+/* carosule */
+
+.img-responsive{
+    width: 100%;
+    height: 200px;
+    display:block;
+}
+.card-body {
+    padding: 10px;  
+    
+}
+.carcol{
+    margin-bottom: 16px;
+}
+.slideshow-container {
+    height: 100px !important;
+}
+.myslide{
+    margin-bottom: 16px;
+}
+
+.google-map  div{
+    width: 100%;
+    height: 450px;
+}
+#contact{
+    border:1px solid lightgray;
+    padding: 10px;
+    background-color: lightpink;
+    
+}
+
+.contactheading{
+    color: #FF0000;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    /* margin: 0 0 24px 0; */
+}
+.slideshow-container a {
+    display: block;
+    
+}
